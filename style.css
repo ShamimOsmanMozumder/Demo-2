@@ -1,0 +1,153 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 10px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    margin: 10px;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+}
+.i-am-jack{
+    color: rgb(252, 96, 148);
+    padding-top: 0px;
+    padding-left: 50px;
+    margin-bottom: 00px;
+    margin-top: 00px;
+}
+
+.hi-i-am{
+    font-size: 30;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-bottom: 00px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+    
+section{
+    padding-left: 80px;
+    height: 500px;
+    padding-bottom: 25%;
+}
+
+.half-width{
+    width: 45%;
+    margin-top: 1px;
+    margin-left: 5px;
+    padding-top: 100px;
+    padding-left: 20px;
+    border-left-width: 40px;
+    padding-right: 2%;
+    float: left;
+}
+
+.top-banner{
+    background-image: url("Images/header-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.half-width img{
+    width: 80%;
+}
+
+p{
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-top: 00px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+    color: gray;
+}
+
+.link-button{
+    margin-left: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(180deg, rgb(233, 104, 127),rgb(252, 96, 148));
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.bio{
+    margin-left: 45px;
+}
+
+.dream-area{
+    background-image: url("Images/biography-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#peter-bio img{
+    width: 80%;
+}
+
+.work{
+    text-align: center;
+}
+
+.work-profile img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px; 
+    float: left;
+    padding-left: 20px;
+    margin-left: 40px;
+}
+
+.work-history{
+    background-image: url("Images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: 60%;
+    height: 300px;
+}
+
+.review{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.CEO{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 350;
+    padding-top: 00;
+}
+.quate{
+    text-align: center;
+    color: black;
+}
+
+.customer-review{
+    background-image: url("Images/footer-bg.png");
+    background-position: left;
+    height: 100px;
+}
+
+.email-button{
+    margin-left: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(180deg, rgb(233, 104, 127),rgb(252, 96, 148));
+    color: white;
+    padding: 20px 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    position: center;
+    margin-left: 650px;
+}
+
+footer{
+    text-align: center;
+    color: gray;
+    font-weight: 400;
+    font-size: 10px;
+}
